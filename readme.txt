@@ -15,7 +15,7 @@ A theme called SanKyuMaru.
 
 A simple responsive theme.
 
-The initial 1.0.0 release version of this theme is being used on https://mechaplay.com
+The initial 1.0.0 release version of this theme is being used on http://mechaplay.com
 
 == Installation ==
 
